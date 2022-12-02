@@ -1,0 +1,5 @@
+Tiempos de impresion y peso de piezas impresas
+soporte auxiliar: tiempo 1 hora 46 minutos. 16 gramos
+prensa fija: tiempo de 4 horas y 17 minutos. 43 gramos
+prensa movil: tiempo de 4 horas. 39 gramos
+manivela: tiempo de 50 minutos. 8 gramos
