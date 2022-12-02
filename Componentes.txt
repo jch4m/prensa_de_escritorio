@@ -1,10 +1,10 @@
 Listado de componentes para el ensamble completo
 
-1 varilla roscada de 1/2 pulgada por 20 cm de largo
+1 varilla roscada de 1/2 pulgada con 13 hilos por pulgada, por 20 cm de largo
 2 tuercas de 1/2 pulgada
 2 golillas de 1/2 pulgada
 tubo de PVC de 16 mm de diametro por 40 cm de largo
-1 lapicero 
+1 lapicero Bic o similar (menor a 8.5 mm de diametro)
 las piezas impresas en 3D:
   soporte auxiliar
   prensa fija
